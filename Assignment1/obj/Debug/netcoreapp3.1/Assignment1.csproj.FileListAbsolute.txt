@@ -1,0 +1,14 @@
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+E:\USB\College\SEM_VII\C#\Assignment\C# Assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
